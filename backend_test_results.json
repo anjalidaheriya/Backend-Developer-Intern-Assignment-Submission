@@ -1,0 +1,88 @@
+{
+  "summary": {
+    "total_tests": 13,
+    "passed_tests": 13,
+    "success_rate": "100.0%",
+    "timestamp": "2026-04-06T13:56:03.513575"
+  },
+  "detailed_results": [
+    {
+      "test": "Health Check",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "API Info",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "Admin Login",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "Get Current User",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "List Users",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "Create Analyst User",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "Create Financial Record",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "List Financial Records",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "Dashboard Summary",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "Dashboard Stats",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "Register Viewer",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "RBAC - Viewer Cannot Create Records",
+      "success": true,
+      "details": "",
+      "response_data": null
+    },
+    {
+      "test": "Logout",
+      "success": true,
+      "details": "",
+      "response_data": null
+    }
+  ]
+}
